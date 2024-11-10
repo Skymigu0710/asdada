@@ -11,16 +11,20 @@ const Tutorial = () => {
     },
     {
       title: 'Paso 2',
-      content: 'Aquí aprenderás más sobre nuestra aplicación.',
+      content: 'Visiar el Login para interactuar con la app y si no puedes REGISTRARTE.',
     },
     {
       title: 'Paso 3',
-      content: '¡Casi terminas! Solo un paso más.',
+      content: 'Navega por las diferentes opciones de la pantalla principal.',
     },
     {
-      title: 'Finalizado',
-      content: '¡Felicidades! Has completado el tutorial.',
+      title: 'Paso 4',
+      content: '¡Haz uso de la app correctamente y ayudar la seguridad ciudadana!',
     },
+    {
+      title: '¡Listo!',
+      content: '¡Has completado el tutorial! ¡Gracias por usar nuestra app!',
+    }
   ];
 
   const nextStep = () => {
